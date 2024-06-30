@@ -111,7 +111,7 @@ To ensure that proper analysis is conducted in determining the optimal system, t
 As each of the above items has its own pros and cons, the ultimate design may likely be a combination of several of these approaches. As much development is still underway, it allows Morpheus to take a slow and calculated approach to roll-out. This ensures that ample testing is conducted, and sufficient feedback is digested, that by the ultimate design will evolve over time as the ecosystem grows and matures. Not to mention, the design decisions made here will impact a wide variety of other aspects of Morpheus, and also be impacted by those other aspects as well. All of this requires thoughtful consideration of not only the direct impacts, but the second, third, and fourth order effects. Morpheus could consider a phased roll-out, something similar to the outline noted in the table below.
 
 ### Exploration of Viable Methods
-In the following section, each method will be briefly described, additional notes will be added, and finally pros and cons will be documented. These outlines are meant to provide the general background of each method in consideration. Subsequent efforts will dive much deeper into each, and ultimately reach an overall recommendation as to which method, or methods, provide Morpheus with the best outcome.
+In the following section, each method will be briefly described, additional notes will be added, and finally, pros and cons will be documented. These outlines are meant to provide the general background of each method in consideration. Subsequent efforts will dive much deeper into each, and ultimately reach an overall recommendation as to which method, or methods, provide Morpheus with the best outcome.
 
 ### Minimum Requirement Stake (# of MOR)
 **Brief Description:** A specific amount of MOR is noted as the requirement to be eligible as a Compute Provider. 
@@ -165,7 +165,7 @@ Consistent demand for MOR from Compute Providers. Encourages longer term lockups
 ### Proportional to Potential X Month Earnings - Variable
 **Brief Description:** Compute Providers are required to stake MOR equal to the amount they anticipate earning based on a calculation when they bring a new node online. 
 
-**Additional Notes:** This would be similar to the Proportional to IPS method, but would differ depending on some open questions regarding the pricing and inference cost procedures.
+**Additional Notes:** This would be similar to the Proportional to IPS method but would differ depending on some open questions regarding the pricing and inference cost procedures.
 
 **Pros:** Net reduction in circulating supply during the lockup period as an amount equal to expected earnings would be immediately locked up. Proportional to size, allowing large and small providers to participate.
 
